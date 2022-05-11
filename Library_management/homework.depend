@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1623082289 source:c:\users\star\desktop\homework\homework.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"homework.h"
+
+1623082289 c:\users\star\desktop\homework\homework.h
+
+1623082851 source:c:\users\star\desktop\homework\main.c
+	<stdio.h>
+	<stdlib.h>
+	"homework.h"
+	<string.h>
+	<time.h>
+
